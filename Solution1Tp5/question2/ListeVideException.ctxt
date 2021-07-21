@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ListeVideException
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ListeVideException\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ListeVideException()
+comment2.params=message
+comment2.target=ListeVideException(java.lang.String)
+numComments=3

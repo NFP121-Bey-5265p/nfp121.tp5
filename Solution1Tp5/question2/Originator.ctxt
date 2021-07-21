@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Originator
+comment1.params=newState
+comment1.target=void\ set(java.util.List)
+comment2.params=
+comment2.target=Memento\ saveToMemento()
+comment3.params=memento
+comment3.target=java.util.List\ restoreFromMemento(Memento)
+numComments=4
